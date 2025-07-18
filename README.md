@@ -1,2 +1,2 @@
 # Cybersecurity-Journey
-All my learning and projects in cybersecurity
+All my learning and projects in Cybersecurity
